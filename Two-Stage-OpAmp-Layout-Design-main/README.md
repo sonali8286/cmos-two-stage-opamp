@@ -38,11 +38,3 @@ The operational amplifier consists of:
 
 
 ### Phase Response
-
-
-
-## Author
-
-Hitik Kumar Nayak  
-Analog VLSI Design Enthusiast  
-Experience in Cadence Virtuoso schematic and layout design
